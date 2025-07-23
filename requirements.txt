@@ -1,0 +1,11 @@
+streamlit
+groq
+faiss-cpu
+python-docx
+python-pptx
+PyMuPDF
+pandas
+tiktoken
+openai
+markdown
+sentence-transformers
